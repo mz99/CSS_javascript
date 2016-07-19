@@ -1,0 +1,35 @@
+#head_banner{
+  background-color:red;
+  text-align:center;
+  font-size: 48px;
+  opacity:0.5;
+}
+h1{
+  text-align:center;
+}
+.box_text{
+  width:300px;
+  height:200px;
+  background-color: green;
+  display: inline-block;
+  text-align: center;
+  opacity: .7;
+}
+.box{
+  font-size: 48px;
+  width:300px;
+  height:200px;
+
+}
+#all{
+  width:100%;
+  text-align:center;
+}
+#image_holder{
+  text-align:center;
+  margin: 50px;
+}
+#image{
+  width: 1160px;
+  height: 660px;
+}
